@@ -16,6 +16,7 @@ recognizing errors in code are probably two of the most important goals of this 
 I can learn to debug in a more efficient way and learn to minimize errors in my code.
 
 Sources:
+
 https://utsa.blackboard.com/bbcswebdav/pid-5092086-dt-content-rid-78549583_1/courses/IS-2043-004-15962-202110/Project_02_Bash_Scripting.pdf
 
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners
