@@ -26,3 +26,6 @@ https://websiteforstudents.com/how-to-use-nano-command-line-text-editor-in-ubunt
 My peer partner for this project is Faith Dobbs, she posted her link to her repo in the
 discussion board in the Project Peers folder. I will send my link to her at 7pm CST on Sunday, 
 October 4, 2020. 
+
+
+Code Review - Faith Dobbs
