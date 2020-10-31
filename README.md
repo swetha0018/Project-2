@@ -29,3 +29,7 @@ October 4, 2020.
 
 
 Code Review - Faith Dobbs
+
+Sadly I could not comment on all the neccessary elements, as there were not code blocks for three of the elements. I was able to commment on if-else.sh, as this was included. 
+
+Although I couldn't leave many comments, the code was still very neatly typed and easy to navigate and find what I was looking for. My suggestion for improvement is to make sure that all the necessary code is included when you push to GitHub. Other than that, the code seems to be organized and appropriately laid out. 
